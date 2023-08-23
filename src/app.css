@@ -1,0 +1,10 @@
+.Main{
+    display: flex;
+    height: 100vh;
+  }
+  .CenterComponent{
+    width: 80%;
+    height: 100%;
+    padding-left: 5%;
+    padding-top: 5%;
+  }
